@@ -4,7 +4,7 @@
 #### 1. [Introduction to Bootstrap](https://www.youtube.com/watch?v=wesUO81YX0U)
 ![download](img/nws-5.jpg)
 
-#### 2. [Quick Tip: How to Use HTML5 “picture” for Responsive Images](http://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
+#### 2. [Learn to use built-in Browser Support for Responsive Images](http://www.html5rocks.com/en/tutorials/responsive/picture-element/)
 ![download](img/nws-2.jpg)
 
 #### 3. [Introduction: Getting your project on Github](https://guides.github.com/introduction/getting-your-project-on-github/)
